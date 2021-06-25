@@ -1,5 +1,5 @@
 # Information from the repository
-Lab 2 of the course Advanced visualization, done in the fourth year.
+Lab 2 of the course Advanced Visualization, done in the fourth year.
 We have three objects to which we apply two different lighting models: PBR and IBL.
 
 The framework has been developed in C++and the lighting models have been implemented in OpenGL.
