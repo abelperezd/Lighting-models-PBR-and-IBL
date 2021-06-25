@@ -13,4 +13,4 @@ To see the final result, run the *framework.exe* file.
 
 To see the project in Visual Studio, run the file *visualstudio2015.sln* that we find inside the folder *visualstudio15*.
 
-The project has been done on the basis of a framework developed in C++ by [Javi Agenjo](https://github.com/jagenjo).
+The project has been done on the basis of a framework developed by [Javi Agenjo](https://github.com/jagenjo).
