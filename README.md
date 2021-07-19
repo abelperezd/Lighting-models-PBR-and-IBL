@@ -4,7 +4,7 @@ We have three objects to which we apply two different lighting models: PBR and I
 
 The framework has been developed in C++and the lighting models have been implemented in OpenGL.
 
-In addition to the files, we find an executable in which we can see the results, a report in which we explain in detail the implementation and a [demonstration video](https://youtu.be/eXyylqVMDOU). 
+In addition to the files, we find an executable in which we can see the results, a report in which we explain in detail the implementation and a [demonstration video](https://www.youtube.com/watch?v=eXyylqVMDOU&list=PLoUOv_yCOVC764tZBDVVVvnuVygZ0iRph&index=1). 
 
 ### Instructions
 To see the final result, run the *framework.exe* file.
